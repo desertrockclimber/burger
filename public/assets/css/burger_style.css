@@ -1,0 +1,23 @@
+.jumbotron {
+	background: yellow;
+}
+
+h2 {
+	text-align: center;
+
+};
+
+p {
+	align-content: center;
+	display: inline;
+};
+.burgerList {
+	align-content: center;
+	display: inline;
+	
+
+};
+
+/*.submitButton {
+	text-align: center;
+};*/
